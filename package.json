@@ -1,0 +1,23 @@
+{
+  "name": "CoinAccount",
+  "version": "0.0.0",
+  "description": "An accounting package for doing fractional reserve banking using crypto-currencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TSavo/CoinAccount.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "accounting"
+  ],
+  "author": "Travis Savo <evilgenius@nefariousplan.com>",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/TSavo/CoinAccount/issues"
+  },
+  "homepage": "https://github.com/TSavo/CoinAccount"
+}
