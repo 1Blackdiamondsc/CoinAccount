@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/TSavo/CoinAccount/issues"
   },
-  "homepage": "https://github.com/TSavo/CoinAccount"
+  "homepage": "https://github.com/TSavo/CoinAccount",
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "leveldown": "~0.10.2",
+    "levelup": "~0.18.2",
+    "levelplus": "0.0.4",
+    "node-cache": "~0.4.0"
+  }
 }
